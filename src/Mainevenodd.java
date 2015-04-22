@@ -25,3 +25,5 @@ public class Mainevenodd {
 		
 	}
 }
+
+// Good job, but there are actually 2 variables, using 1 constructor
